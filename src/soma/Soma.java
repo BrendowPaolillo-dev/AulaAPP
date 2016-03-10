@@ -16,6 +16,7 @@ public class Soma {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //teste
         int a = 10, b = 2;
         System.out.println (somar(a,b));
         
